@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ea464739-52c6-4a93-ac89-f716202c4a7c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-Iron-Man b.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cam.py" beforeDir="false" afterPath="$PROJECT_DIR$/cam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grama.py" beforeDir="false" afterPath="$PROJECT_DIR$/grama.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssss.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="cam.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cam.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="87" column="71" selection-start-line="87" selection-start-column="71" selection-end-line="87" selection-end-column="71" />
+            <state relative-caret-position="465">
+              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -465,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="87" column="71" selection-start-line="87" selection-start-column="71" selection-end-line="87" selection-end-column="71" />
+        <state relative-caret-position="465">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
